@@ -1,4 +1,4 @@
-# requirements.md
+# > [Plateform-Requirements.md](https://github.com/manish-npx/js-interview-practice/blob/main/Platform-Requirements.md)
 
 ## 1. Functional Requirements
 
